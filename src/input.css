@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+.bg-custom-green { background-color: #2ab939; }
+.text-custom-green { color: #2ab939; }
+.bg-custom-deep-green { background-color: #1f4e3d; }
+.text-custom-yellow { color: #fbd41f; }
+.text-custom-white {color: #ffff;}
+.text-custom-gray {color: #eff3ed;}
+.text-custom-black {color: black;}
+.bg-custom-gray {background-color: #eff3ed;}
+.-custom-deep-green { color: #1f4e3d; }
+
